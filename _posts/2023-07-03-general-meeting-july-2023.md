@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "General Meeting 3rd July 2023"
-author: John Foster
+author: john
 ---
 
 GOVAN COMMUNITY COUNCIL

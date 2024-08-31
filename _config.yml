@@ -3,7 +3,7 @@ email: andre.videla@gmail.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/govan_logo_small.png'
 favicon: 'assets/images/favicon.ico'
 author: Andre
 paginate: 30
@@ -23,23 +23,23 @@ sass:
   # ganalytics: UA-113961478-1
 
 # Authors
-# authors:
-#   sal:
-#     name: Sal
-#     display_name: Sal
-#     avatar: 'assets/images/sal.png'
-#     email: wowthemesnet@gmail.com
-#     web: https://www.wowthemes.net/category/jekyll-themes/
-#     twitter: https://twitter.com/wowthemesnet
-#     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-#   john:
-#     name: John
-#     display_name: John
-#     avatar: 'assets/images/john.png'
-#     email: wowthemesnet@gmail.com
-#     web: https://www.wowthemes.net/category/jekyll-themes/
-#     twitter: https://twitter.com/wowthemesnet
-#     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+authors:
+  andre:
+    name: Andre Videla
+    display_name: Andre Videla
+    avatar: ''
+    email: andre.videla@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter:
+    description: ""
+  john:
+    name: John Foster
+    display_name: John Foster
+    avatar: ''
+    email: foster631@btinternet.com
+    web:
+    twitter:
+    description: ""
 
 # Social
 # social:

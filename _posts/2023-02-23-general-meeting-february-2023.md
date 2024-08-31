@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "General Meeting 7rd February 2023"
+author: john
+---
+
 GOVAN COMMUNITY COUNCIL
 
 MINUTES OF GENERAL MEETING
@@ -165,4 +171,4 @@ Cllr Alam noted that the previous councillor for Govan was seriously
 ill. The meeting offered its best wishes for a speedy recovery.
 
 **11. DATE OF NEXT MEETING: MONDAY 6 MARCH at 7 p.m. in ELDERPARK
-WORKSPACE**
+W

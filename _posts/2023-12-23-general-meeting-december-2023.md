@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "General Meeting 4th December 2023"
+author: john
+---
 **GOVAN COMMUNITY COUNCIL**
 
 GENERAL MEETING MONDAY 4 DECEMBER

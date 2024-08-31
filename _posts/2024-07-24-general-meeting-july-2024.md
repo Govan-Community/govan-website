@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "General Meeting 8th July 2024"
-author: "John Foster"
+author: john
 ---
 
 **GOVAN COMMUNITY COUNCIL**
