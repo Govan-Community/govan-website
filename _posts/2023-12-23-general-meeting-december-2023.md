@@ -26,7 +26,7 @@ a)  **Use of Maslow's** for a Community Council surgery
 > drop-in centre whereby advice can be given on local issues and who to
 > contact.
 
-b)  **Community Spac**e: Hannah will come back to this issue
+b)  **Community Space**: Hannah will come back to this issue
 
 c)  **Assessment of the November Public Meeting**
 
