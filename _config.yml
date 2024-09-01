@@ -5,7 +5,7 @@ baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/govan_logo_small.png'
 favicon: 'assets/images/favicon.ico'
-author: Andre
+author: andre
 paginate: 30
 disqus: ''
 locale: en_gb
@@ -27,19 +27,12 @@ authors:
   andre:
     name: Andre Videla
     display_name: Andre Videla
-    avatar: ''
     email: andre.videla@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter:
-    description: ""
   john:
     name: John Foster
     display_name: John Foster
-    avatar: ''
     email: foster631@btinternet.com
-    web:
-    twitter:
-    description: ""
 
 # Social
 # social:
