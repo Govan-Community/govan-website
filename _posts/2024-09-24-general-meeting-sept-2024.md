@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "General Meeting 2nd September 2024"
+author: john
+---
+
 **GOVAN COMMUNITY COUNCIL**
 
 **GENERAL MEETING MONDAY 2 SEPTEMBER 2024**
