@@ -10,8 +10,8 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-- title: Archives
-  url: "archives/"
+- title: Govan Letter
+  url: "letters/"
 
 # Footer Menu
 footermenu:
