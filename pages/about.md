@@ -28,7 +28,7 @@ soon.
 
 The most recent term of member election occured at the Annual General 
 Meeting on Monday 6th of October 2025. Due to changes in personal 
-circumstances, a new leadership group was elected and will serve year
+circumstances, a new leadership group was elected and will serve year five
 terms until 2029. 
 
 Interim elections can be called by the Community Council and details
