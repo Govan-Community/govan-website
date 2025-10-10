@@ -16,24 +16,25 @@ their community. They are required to be non-sectarian and non-party
 political (but not non-political).
 
 Govan Community Council currently meets monthly on the first Monday
-(unless a public holiday). It currently meets in the Board Room of
-Elderpark Workspace at 7 pm. Meetings are open to the public and the
-next meeting will be on Monday 2 September.
+(unless a public holiday). It currently meets in the Ground Floor Cafe
+of The Pearce Institute at 840-860 Govan Rd, Glasgow G51 3UU. The next
+meeting is scheduled for Monday 3rd of November 2025 at 7pm.    
 
-The Chair is Danny O'Neill 07753 126593; the Secretary Esme Clark 0141
-425 1318.
+The Chair is Claire Dickson, Vice Chair is Willie Jones, and the 
+secretary is Greg Easton. Updated contact details will be provided
+soon. 
 
-## ELECTION OF NEW MEMBERS AUTUMN 2024
+## ELECTION OF NEW MEMBERS COMPLETED AUTUMN 2025
 
-Forms are currently available for the election of four new members. They
-must be returned to the City Council by Monday 9 September. Phone either
-the Chair or Secretary to receive a copy. If an election is necessary.it
-will be held on Monday 7 October. Those applying must be 16 or over and
-live west of Broomloan Road and the east side of Drive Road and between
-the river and the motorway. If you are interested the Community Council
-officers would strongly welcome your application.
+The most recent term of member election occured at the Annual General 
+Meeting on Monday 6th of October 2025. Due to changes in personal 
+circumstances, a new leadership group was elected and will serve year
+terms until 2029. 
 
-## CURRENT CAMPAIGNS BEING SUPPORTED BY THE COMMUN ITY COUNCIL
+Interim elections can be called by the Community Council and details
+will be available on this page. 
+
+## CURRENT CAMPAIGNS BEING SUPPORTED BY THE COMMUNITY COUNCIL
 
 Opposition to the downgrading of Govan fire station and the removal of
 one of its two tenders.
@@ -42,9 +43,9 @@ Opposition to the loss of banking cash dispensers (and closure of banks)
 in the Govan area.
 
 Support for the City Council's initiative to redevelop the Lyceum as a
-community centre -- and its appeal for signatures on the petition.
+community centre. 
 
-Support for demands for the public ownership of bus services in Glasgow.
+Support for demands for the public ownership of bus services in Glasgow. 
 
 Opposition to the cut in teacher numbers in Glasgow schools.
 

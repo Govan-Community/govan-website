@@ -33,11 +33,15 @@ authors:
     name: John Foster
     display_name: John Foster
     email: foster631@btinternet.com
+  greg: 
+    name: Greg Easton
+    display_name: Greg Easton
+    email: gregeaston@gmail.com # may want to update to a CC mailbox in the future   
 
 # Social
-# social:
+social:
 #   instagram: https://www.instagram.com/bootstrapstarter/
-#   facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+   facebook: https://www.facebook.com/profile.php?id=61571151939954
 #   twitter: https://twitter.com/bstartercom
 
 # Plugins
