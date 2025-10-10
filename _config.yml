@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/govan_logo_small.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/favicongcc.ico'
 author: andre
 paginate: 30
 disqus: ''
