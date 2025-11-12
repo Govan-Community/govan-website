@@ -12,7 +12,7 @@ categories: minutes
 Held in the Pearce Institute at 7 p.m. 
 
 **Present**: Greg Burns, Katherine Carabine, Esme Clark, Marie Davidson, Claire Dickson, Greg Easton, John Foster, Reinhild Gorniak, Ruby Kelly, Danny O’Neill, Robert Preston, Georgina Preston, Madeleine Skeoch, Dorota Lebioda, Kara Dooley, Cllr Dan Hutchison, Dr Zubir Ahmed MP, Fraser Grant-Rae, Assistant to Dr Ahmed  
-**Apologies:** Maria Moody**,** Annie Morgan, Willie Jones, André Videla, Betty Ross, Gordon Mackay, Cllr Alam, Cllr Bell, Cllr Dornan.  
+**Apologies:** Maria Moody, Annie Morgan, Willie Jones, André Videla, Betty Ross, Gordon Mackay, Cllr Alam, Cllr Bell, Cllr Dornan.  
 Minute taker: Greg Easton
 
 **THE 2025 ANNUAL GENERAL MEETING**   
@@ -60,16 +60,16 @@ Willie Jones
 
 **7\. Call for nominations of Office Bearers for the coming session**  
 The following officers were declared elected without contest.  
-Chair: Clare Dickson nominated by Esme Clark and seconded Reinhild Gorniak  
-Vice Chair: Willie Jones nominated Reinhild Gorniak and seconded Esme Clark  
-Secretary: Greg Easton nominated by Esme Clark and Madeline    \[Greg would also take over the functions of Minute Secretary\]  
-Treasurer:  It was agreed to ask Maria Moody, who had relevant experience but was currently ill with ‘flu, to take this position and to return to it at the November meeting
+**Chair**: Clare Dickson nominated by Esme Clark and seconded Reinhild Gorniak  
+**Vice Chair**: Willie Jones nominated Reinhild Gorniak and seconded Esme Clark  
+**Secretary**: Greg Easton nominated by Esme Clark and Madeline    \[Greg would also take over the functions of Minute Secretary\]  
+**Treasurer**:  It was agreed to ask Maria Moody, who had relevant experience but was currently ill with ‘flu, to take this position and to return to it at the November meeting. 
 
 The following representatives were agreed:  
-Area Partnership lead member  Madeline Skeoch  
-Area Partnership Substitute:  Greg Easton  
-Area Partnership Substitute: Esme Clark  
-Planning Contact and Licensing Contact: Madeline Skeoch
+**Area Partnership lead member**:  Esme Clark  
+**Area Partnership Substitute**:  Greg Easton  
+**Area Partnership Substitute**: Madeleine Skeoch  
+**Planning Contact and Licensing Contact**: Madeleine Skeoch
 
 **At this point Claire Dickson took the Chair**  
   .  
