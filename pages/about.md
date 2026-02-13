@@ -16,12 +16,13 @@ their community. They are required to be non-sectarian and non-party
 political (but not non-political).
 
 Govan Community Council currently meets monthly on the first Monday
-(unless a public holiday). It currently meets in the Ground Floor Cafe
-of The Pearce Institute at 840-860 Govan Rd, Glasgow G51 3UU. The next
-meeting is scheduled for Monday 12th of January 2025 at 7pm.    
+(unless a public holiday). Since February 2026, we now meet at Maslow's
+Community Hub, 94 Langlands Rd, Glasgow G51 3BQ. The next
+meeting is scheduled for Monday 2nd of March 2025 at 7pm.    
 
 The Chair is Claire Dickson, Vice Chair is Willie Jones, and the 
-Secretary is Greg Easton. To get in touch, please use the contact page.
+Secretary is Greg Easton. To get in touch, please use the contact page 
+or Facebook.
 
 ## ELECTION OF NEW MEMBERS COMPLETED AUTUMN 2025
 
