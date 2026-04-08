@@ -1,4 +1,12 @@
- **Govan Community Council**   
+---
+layout: post
+title: "General Meeting 2nd of March 2026"
+author: greg
+date: 2026-03-02
+categories: minutes
+---
+
+**Govan Community Council**   
 **Minutes  for General Meeting 2nd of March 2026**  
 **7pm at Maslow’s Community Hub, 94 Langlands Rd, Glasgow, G51 3BQ**
 
