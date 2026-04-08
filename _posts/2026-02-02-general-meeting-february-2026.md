@@ -2,7 +2,7 @@
 layout: post
 title:  "General Meeting 2nd of February 2026"
 author: greg
-date: 2026-02-12
+date: 2026-02-02
 categories: minutes
 ---
 

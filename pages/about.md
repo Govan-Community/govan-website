@@ -18,7 +18,7 @@ political (but not non-political).
 Govan Community Council currently meets monthly on the first Monday, with
 some exceptions. Since February 2026, we now meet at Maslow's
 Community Hub, 94 Langlands Rd, Glasgow G51 3BQ. The next
-meeting is scheduled for Monday 6th of April 2025 at 7pm.    
+meeting is scheduled for Monday 11th of May 2025 at 7pm.    
 
 The Chair is Claire Dickson, Vice Chair is Willie Jones, and the 
 Secretary is Greg Easton. To get in touch, please use the contact page 
