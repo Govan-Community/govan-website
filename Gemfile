@@ -2,14 +2,6 @@
 
 source "https://rubygems.org"
 
-
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
@@ -21,3 +13,7 @@ group :jekyll_plugins do
     gem 'tzinfo-data'
     gem 'tzinfo'
 end
+
+# Forcing GH to use updated version, as getting errors caused by older version
+# If this breaks entire site Greg, this is what you remove.
+gem "sass-embedded", "1.93.2"
