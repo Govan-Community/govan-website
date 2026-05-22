@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "General Meeting 11th of May 2026"
+title:  "General Meeting 11th of May 2026"
 author: greg
 date: 2026-05-11
 categories: minutes
