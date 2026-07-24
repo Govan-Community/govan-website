@@ -57,6 +57,7 @@ Katherine Carabine
 Marie Davidson  
 Marie Moody  
 Willie Jones
+Claire Dickson
 
 **7\. Call for nominations of Office Bearers for the coming session**  
 The following officers were declared elected without contest.  
