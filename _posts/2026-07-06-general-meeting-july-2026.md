@@ -16,7 +16,7 @@ categories: minutes
 2. **Approval of Minutes from June**  
    Approval given by Madeline Skeoch and Robert Preston.
 
-3. **Govan Music Festival Thing \- find booket**  
+3. **Govan Music Festival**  
    Paul MacAlinden presented the meeting with a preview of the Glasgow Barons Early Music Festival, which will be held between the 24th and 26th of July. Six events will be held in The Govan Old Church, featuring top performers including Pei-Jee Ng, the principal cellist of the RSNO and The Royal Sackbut Collective. 
 
    The goal is to drive people into our spaces in Govan using music. The meeting thanked Paul for all of his efforts putting these high quality events on and offered any assistance going forward. 
